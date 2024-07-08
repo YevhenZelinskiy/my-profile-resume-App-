@@ -102,7 +102,7 @@ export const aboutData: About = {
   With a comprehensive understanding of frontend development principles,
   I am adept at crafting reusable components, implementing state management,
   and optimizing UI interactions.
-  My portfolio showcases successful collaborations with clients from diverse industries, highlighting my ability to translate complex requirements into intuitive and visually appealing frontend solutions.`,
+  `,
   aboutItems: [
     {label: 'Location', text: 'Victoria, BC', Icon: MapIcon},
     {label: 'Age', text: '29', Icon: CalendarIcon},
